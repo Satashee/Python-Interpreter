@@ -1,6 +1,4 @@
-ecosystem.
-
-Project Overview
+#Project Overview
 Welcome to this Python Interpreter in C++ project! This project aims to provide a robust and feature-rich interpreter for the Python programming language, built entirely from scratch in C++. Whether you're looking to explore the internals of how an interpreter works, experiment with language features, or simply explore the intersection of C++ and Python, this interpreter is a powerful tool designed with flexibility and extensibility in mind.
 
 🔑 Key Features
